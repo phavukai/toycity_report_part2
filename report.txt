@@ -46,13 +46,13 @@ Average discount is $10.0
                                   
 Brand: LEGO
 Number of items we sell from this brand: 2
-Total number of items in stock from this brand: 55
-Average price of items we sell by this brand: $111.49
-Total revenue of all sales for this brand: $416.96
+Total stock for brand: 55
+Average price of items per brand: $111.49
+Brand revenue: $416.96
 -----------------------------------------------------
 Brand: Nano Blocks
 Number of items we sell from this brand: 1
-Total number of items in stock from this brand: 12
-Average price of items we sell by this brand: $49.99
-Total revenue of all sales for this brand: $68.98
+Total stock for brand: 12
+Average price of items per brand: $49.99
+Brand revenue: $68.98
 -----------------------------------------------------

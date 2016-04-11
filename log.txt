@@ -1,0 +1,23 @@
+commit 1d9bafdeae3dfd6137e26dd8216b280ab7feb38d
+Author: phavukai <petri.havukainen@student.hamk.fi>
+Date:   Mon Apr 11 14:52:47 2016 +0300
+
+    Fixing
+
+commit 514aa8dacc5bfae749f4555f5ce15bbeb436ae0d
+Author: phavukai <petri.havukainen@student.hamk.fi>
+Date:   Mon Apr 11 14:42:49 2016 +0300
+
+    testing
+
+commit 448957307a487a19fb65f712ee2c79139dc9077f
+Author: phavukai <petri.havukainen@student.hamk.fi>
+Date:   Mon Apr 4 22:25:32 2016 +0300
+
+    first day progress
+
+commit c2c8f5e2f32afae09f5b90e1bc5abd2afc659840
+Author: phavukai <petri.havukainen@student.hamk.fi>
+Date:   Mon Apr 4 20:57:43 2016 +0300
+
+    initial commit
