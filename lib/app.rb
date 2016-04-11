@@ -91,7 +91,7 @@ def retail_price_method(item)
 
 	retail_price = item["full-price"]
 
-	report_file_puts "$#{retail_price}"
+	report_file_puts "Retails price: $#{retail_price}"
 
 	return retail_price
 end
@@ -100,7 +100,7 @@ def total_sales_method(item)
 
 	total_sales = item["purchases"].length 
 
-	report_file_puts  "Total number of sales: $#{total_sales}"
+	report_file_puts  "Total number of sales: #{total_sales}"
 
 	return total_sales
 end
@@ -116,6 +116,7 @@ def total_revenue_method(item)
 
 	report_file_puts "Total amount of revenue from sales: $#{total_revenue.to_s}" 
 
+	return total_revenue
 end
 
 def avg_purch_price_method(total_revenue, total_sales)

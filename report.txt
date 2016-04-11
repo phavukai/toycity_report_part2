@@ -16,25 +16,25 @@
                                            
                                            
 item LEGO Iron Man vs. Ultron
-$22.99
-Total number of sales: $2
+Retails price: $22.99
+Total number of sales: 2
 Total amount of revenue from sales: $36.98
-Average sale price: $0.0
-Average discount is $22.99
+Average sale price: $18.49
+Average discount is $4.5
 ----------------------------------------------
 item Nano Block Empire State Building
-$49.99
-Total number of sales: $2
+Retails price: $49.99
+Total number of sales: 2
 Total amount of revenue from sales: $68.98
-Average sale price: $0.0
-Average discount is $49.99
+Average sale price: $34.49
+Average discount is $15.5
 ----------------------------------------------
 item LEGO Firehouse Headquarters
-$199.99
-Total number of sales: $2
+Retails price: $199.99
+Total number of sales: 2
 Total amount of revenue from sales: $379.98
-Average sale price: $0.0
-Average discount is $199.99
+Average sale price: $189.99
+Average discount is $10.0
 ----------------------------------------------
   ____                      _     
  |  _ \                    | |    
